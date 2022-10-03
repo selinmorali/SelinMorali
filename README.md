@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/selin-morali/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="selin-linkedin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/selin-morali/" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" alt="selin-linkedin" height="30" width="30" /></a>
 <a href="https://discordapp.com/users/271015968384352268" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="selin-discord" height="30" width="30" /></a>
 <a href="https://join.skype.com/invite/NvZnf1Ch7HEV" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" alt="selin-skype" height="30" width="30" /></a>
 <a href="https://t.me/selinmorali" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="selin-telegram" height="30" width="30" /></a>
