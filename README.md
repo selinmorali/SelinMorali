@@ -1,12 +1,9 @@
 <h2 align="center">Hello there 👋 I'm Selin</h2>
 
 <p>
+- 🌱 I’m currently learning JavaScript
 
-- 🔭 I’m currently working on Unity 3D
-
-- 🌱 I’m currently learning Unity 3D
-
-- 💬 Ask me about **Unity Development, HTML, CSS, C#, .NET**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#, .NET, Unity Development**
 
 - 📫 How to reach me **selinmoralii@gmail.com**
 </p>
